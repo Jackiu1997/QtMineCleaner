@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/alert.png</file>
+        <file>img/black.png</file>
+        <file>img/bomb.png</file>
+        <file>img/flag.png</file>
+        <file>img/grey.png</file>
+        <file>img/white.png</file>
+        <file>icon/ai.png</file>
+        <file>icon/custom.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/random.png</file>
+        <file>icon/reset.png</file>
+        <file>icon/bomb.ico</file>
+    </qresource>
+</RCC>
